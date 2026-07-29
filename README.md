@@ -7,6 +7,8 @@ DMR Launcher (package name: `com.github.dmrdev727.dmrlauncher.app`) is provided 
 ## Information We Collect
 
 - Device information (model, OS version, language, country).
+- Usage analytics (events, screens, interactions).
+- Crash and performance data.
 
 
 
@@ -20,11 +22,15 @@ DMR Launcher (package name: `com.github.dmrdev727.dmrlauncher.app`) is provided 
 
 - Provide and improve app functionality.
 - Personalize content and features.
+- Measure usage and better understand product performance.
+- Diagnose crashes and improve stability.
 
 
 
 ## Sharing of Information
 
+- Analytics providers (e.g., Google Analytics for Firebase).
+- Crash reporting providers (e.g., Firebase Crashlytics).
 - Service providers that help us operate the app (hosting, support) under confidentiality obligations.
 - Legal authorities if required by law, to protect rights, or investigate misuse.
 
@@ -57,6 +63,15 @@ Depending on your location (e.g., EU/EEA, UK, California), you may have rights t
 ## International Transfers
 
 Your information may be processed and stored in countries other than your own. Where required, we rely on appropriate safeguards for international transfers.
+
+
+
+## Third-Party Services & SDKs
+
+The app may integrate the following services:
+
+- **Analytics**: Google Analytics for Firebase (Google LLC).
+- **Crash reporting**: Firebase Crashlytics (Google LLC).
 
 
 
